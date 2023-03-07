@@ -12,3 +12,10 @@ https://youtu.be/TUkBRoS3w5Q
 <img width="1242" alt="Screen Shot 2022-12-28 at 21 26 06" src="https://user-images.githubusercontent.com/44849765/209856495-33ef54bd-3228-437b-959a-cdee1dabdfd4.png">
 
 <img width="1181" alt="Screen Shot 2022-12-28 at 21 26 45" src="https://user-images.githubusercontent.com/44849765/209856581-0b12c7ab-1274-4a88-9fc8-3b2de299fa77.png">
+
+
+# Running the app
+1. Download the code, make sure you have installed Django.
+2. In your terminal, cd into the directory where the project file exists.
+3. Apply the migrations:  ``` python3 manage.py migrate ```
+4. Then just run the server: ``` python3 manage.py runserver ```
